@@ -29,7 +29,7 @@ The project involves:
 
 Below are screenshots of the application interface:
 
-| Extracted Data & Summary | CSV Upload View | Processed Rows |
+| CSV Upload View   | Processed Rows | Extracted Data & Summary  |
 |--------------------------|-----------------|----------------|
 | ![Screenshot1](screenshots/Screenshot%202025-03-18%20210925.png) | ![Screenshot2](screenshots/Screenshot%202025-03-18%20211422.png) | ![Screenshot3](screenshots/Screenshot%202025-03-18%20211628.png) |
 | ![Screenshot4](screenshots/Screenshot%202025-03-18%20212637.png) | ![Screenshot5](screenshots/Screenshot%202025-03-18%20212709.png) | ![Screenshot6](screenshots/Screenshot%202025-03-18%20212818.png) |
